@@ -1,2 +1,2 @@
-email :leeo@kakao.com
+email :leeo2@kakao.com
 gitID :Le20
